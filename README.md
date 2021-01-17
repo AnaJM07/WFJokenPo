@@ -1,6 +1,6 @@
 # Joken Po
 
-# :problem: Link do Dojo
+# Link Dojo Puzzle
 https://dojopuzzles.com/problems/jokenpo/
 
 # :computer: Sobre o Desenvolvimento
