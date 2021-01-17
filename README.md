@@ -1,4 +1,4 @@
-# Joke Po
+# Joken Po
 
 # :problem: Link do Dojo
 https://dojopuzzles.com/problems/jokenpo/
